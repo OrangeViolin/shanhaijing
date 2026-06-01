@@ -1,0 +1,244 @@
+/* ============================================================
+ * 竹简素净 (bamboo-slip-plain)
+ * 竹简、素净、淡黄
+ *
+ * 适用于: 先秦文献、出土简帛类 wiki
+ * 推荐配对: #9 深夜阅读·墨棕
+ * 风格分类: light-chinese
+ * 模式: 亮色 (light)
+ *
+ * 用法: 将此文件作为 local.css 引入，覆盖 base.css 的默认配色
+ * ============================================================ */
+
+/* ---------- 1. CSS 变量体系 (base.css :root) ---------- */
+:root {
+  --fg: #3a2a14;
+  --fg-muted: #6e5530;
+  --bg: #f3ecd9;
+  --bg-box: #e6d9b8;
+  --bg-nav: #d8c898;
+  --accent: #7a3a1a;
+  --accent-dim: #e8d8b8;
+  --link: #7a3a1a;
+  --link-broken: #a02020;
+  --border: #bfa872;
+  --bg-code: #e6d9b8;
+  --bg-table: #f3ecd9;
+  --bg-stripe: #e8dcbe;
+}
+
+/* ---------- 2. 首页 Hero 区 (home.css 硬编码覆盖) ---------- */
+.hero-eyebrow { color: #6e5530; }
+.hero-title {
+  color: #3a2a14;
+  text-shadow: 0 0 30px #7a3a1a40;
+}
+.hero-tagline { color: #6e5530; }
+.hero-count { color: #7a3a1a; }
+
+.hero-search input {
+  color: #3a2a14;
+  background: #e6d9b8;
+  border: 1px solid #bfa872;
+  box-shadow: 0 0 0 0 transparent;
+}
+.hero-search input:focus {
+  border-color: #7a3a1a;
+  box-shadow: 0 0 0 3px #7a3a1a33;
+}
+.hero-search input::placeholder { color: #6e5530; }
+
+.hero-search #search-results {
+  background: #e6d9b8;
+  border: 1px solid #bfa872;
+}
+
+.mode-opt { color: #6e5530; }
+.mode-opt input[type=checkbox] { accent-color: #7a3a1a; }
+
+/* FTS 搜索结果 */
+.fts-chap { color: #6e5530; }
+.fts-title { color: #7a3a1a; }
+.fts-pn { color: #6e5530; }
+.fts-snip { color: #3a2a14; }
+.fts-hl {
+  color: #7a3a1a;
+  background: #e8d8b8;
+}
+.fts-all a {
+  color: #7a3a1a;
+  border-top: 1px solid #bfa872;
+}
+.fts-all a:hover { background: #e8d8b8; }
+
+/* ---------- 3. 首页 Knowledge 面板 ---------- */
+.k-title-link { color: #7a3a1a; }
+.k-value { color: #3a2a14; }
+.k-row { color: #3a2a14; }
+.k-row.muted { color: #6e5530; }
+.k-panel {
+  background: #e6d9b8;
+  border: 1px solid #bfa872;
+}
+
+/* ---------- 4. 首页书卡 ---------- */
+.book-card {
+  background: #e6d9b8;
+  border: 1px solid #bfa872;
+}
+.bc-icon {
+  color: #7a3a1a;
+  background: #e8d8b8;
+}
+.bc-title { color: #3a2a14; }
+.bc-title:hover { color: #7a3a1a; }
+.bc-sub { color: #6e5530; }
+.bc-chap { color: #7a3a1a; }
+.bc-chap:hover { color: #7a3a1a; }
+.bc-chap--pre, .bc-chap--app { color: #6e5530; }
+
+/* ---------- 5. 文章正文 ---------- */
+article h2 {
+  color: #7a3a1a;
+  border-bottom: 1px solid #bfa872;
+}
+article h3 { color: #3a2a14; }
+
+article code {
+  color: #7a3a1a;
+  background: #e6d9b8;
+  border: 1px solid #bfa872;
+}
+
+article table { border: 1px solid #bfa872; }
+article th {
+  background: #e6d9b8;
+  border: 1px solid #bfa872;
+}
+article td { border: 1px solid #bfa872; }
+article tr:nth-child(even) td { background: #e8dcbe; }
+
+article hr { border-top: 1px solid #bfa872; }
+
+.seealso-block {
+  background: #e8d8b8;
+  border-left: 4px solid #7a3a1a;
+}
+
+/* blockquote */
+blockquote {
+  border-left: 4px solid #e8d8b8;
+  color: #6e5530;
+}
+
+/* ---------- 6. Diff 对比 ---------- */
+.diff-added { color: #4a5818; }
+.diff-removed { color: #a02020; }
+
+.diff-add {
+  color: #4a5818;
+  background: #e0e0a8;
+}
+.diff-add .diff-sign { color: #4a5818; }
+.diff-add .diff-char {
+  color: #4a5818;
+  background: #c8c898;
+}
+
+.diff-del {
+  color: #a02020;
+  background: #e8d0c8;
+}
+.diff-del .diff-sign { color: #a02020; }
+.diff-del .diff-char {
+  color: #a02020;
+  background: #e0b0a8;
+}
+
+/* ---------- 7. 实体卡片 ---------- */
+.card-header h3 { color: #7a3a1a; }
+
+.featured-card {
+  background: #e6d9b8;
+  border: 1px solid #bfa872;
+}
+.featured-card:hover { border-color: #7a3a1a; }
+.featured-card .card-eyebrow {
+  color: #7a3a1a;
+  background: #e8d8b8;
+}
+.featured-card .card-desc { color: #6e5530; }
+
+/* ---------- 8. 实体类型强调色 (types.css) ---------- */
+.entity-person       { border-left-color: #7a3a1a; }
+.entity-concept      { border-left-color: #5a4818; }
+.entity-event        { border-left-color: #4a5828; }
+.entity-species      { border-left-color: #8a5828; }
+.entity-theory       { border-left-color: #6a3818; }
+.entity-chapter      { border-left-color: #4a5818; }
+.entity-organization { border-left-color: #6a4878; }
+.entity-place        { border-left-color: #4a5828; }
+.entity-overview     { border-left-color: #4a5828; }
+
+.tag-person       { color: #7a3a1a;       border-color: #7a3a1a; }
+.tag-concept      { color: #5a4818;      border-color: #5a4818; }
+.tag-event        { color: #4a5828;        border-color: #4a5828; }
+.tag-species      { color: #8a5828;      border-color: #8a5828; }
+.tag-theory       { color: #6a3818;       border-color: #6a3818; }
+.tag-chapter      { color: #4a5818;      border-color: #4a5818; }
+.tag-organization { color: #6a4878; border-color: #6a4878; }
+.tag-place        { color: #4a5828;        border-color: #4a5828; }
+.tag-overview     { color: #4a5828;     border-color: #4a5828; }
+
+/* ---------- 9. 质量徽章 (quality.css) ---------- */
+.badge-premium {
+  background: #e0c8e8;
+  color: #5a3878;
+}
+.badge-featured {
+  background: #c8d0e0;
+  color: #3a5070;
+}
+.badge-standard {
+  background: #d8d8a8;
+  color: #5a5818;
+}
+.badge-basic {
+  background: #e8d098;
+  color: #6a4018;
+}
+.badge-stub {
+  background: #e8c0b8;
+  color: #8b2828;
+}
+
+/* ---------- 10. 近期更改 (pages.css) ---------- */
+.rc-size-plus, .rc-plus { color: #4a5818; }
+.rc-size-minus, .rc-minus { color: #a02020; }
+
+/* ---------- 11. 阅读进度条 (nav.css) ---------- */
+.reading-progress {
+  background: linear-gradient(90deg, #7a3a1a, #a8602a);
+}
+
+/* ---------- 12. 源代码视图 (source.css) ---------- */
+.src-container-fence { color: #6e5530; }
+.source-view {
+  color: #3a2a14;
+  background: #e6d9b8;
+}
+.src-pre.src-fm { border-top: 1px solid #bfa872; }
+
+/* ---------- 13. 滚动条 ---------- */
+::-webkit-scrollbar-track { background: #f3ecd9; }
+::-webkit-scrollbar-thumb { background: #bfa872; }
+::-webkit-scrollbar-thumb:hover { background: #7a3a1a; }
+
+/* ---------- 14. 选中文本 ---------- */
+::selection {
+  background: #7a3a1a40;
+  color: #3a2a14;
+}
+
+/* RFC-0001 fix: Hero 背景色适配主题 */
+.home-hero { background: var(--hero-bg, var(--bg-primary, #f5f0e3)) !important; }

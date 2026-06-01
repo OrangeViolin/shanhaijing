@@ -1,0 +1,1348 @@
+{
+  "_schema_version": 2,
+  "pages": {
+    "About": {
+      "type": "overview",
+      "label": "关于本 Wiki",
+      "aliases": [
+        "关于",
+        "About"
+      ],
+      "path": "ab/About.md"
+    },
+    "獓狠": {
+      "type": "creature",
+      "label": "獓狠",
+      "aliases": [],
+      "path": "ao/獓狠.md"
+    },
+    "巴蛇": {
+      "type": "creature",
+      "label": "巴蛇",
+      "aliases": [
+        "巴蛇食象"
+      ],
+      "path": "ba/巴蛇.md"
+    },
+    "白泽": {
+      "type": "creature",
+      "label": "白泽",
+      "aliases": [],
+      "path": "ba/白泽.md"
+    },
+    "北山经": {
+      "type": "chapter",
+      "label": "北山经",
+      "aliases": [],
+      "path": "be/北山经.md"
+    },
+    "北海": {
+      "type": "place",
+      "label": "北海",
+      "aliases": [],
+      "path": "be/北海.md"
+    },
+    "比翼鸟": {
+      "type": "creature",
+      "label": "比翼鸟",
+      "aliases": [],
+      "path": "bi/比翼鸟.md"
+    },
+    "毕方": {
+      "type": "creature",
+      "label": "毕方",
+      "aliases": [
+        "毕文"
+      ],
+      "path": "bi/毕方.md"
+    },
+    "不周山": {
+      "type": "place",
+      "label": "不周山",
+      "aliases": [
+        "不周之山",
+        "不周负子"
+      ],
+      "path": "bu/不周山.md"
+    },
+    "不死药": {
+      "type": "concept",
+      "label": "不死药",
+      "aliases": [
+        "不死之药"
+      ],
+      "path": "bu/不死药.md"
+    },
+    "崇吾之山": {
+      "type": "place",
+      "label": "崇吾之山",
+      "aliases": [],
+      "path": "ch/崇吾之山.md"
+    },
+    "常羲": {
+      "type": "person",
+      "label": "常羲",
+      "aliases": [
+        "常仪"
+      ],
+      "path": "ch/常羲.md"
+    },
+    "常羲浴月": {
+      "type": "event",
+      "label": "常羲浴月",
+      "aliases": [],
+      "path": "ch/常羲浴月.md"
+    },
+    "成山": {
+      "type": "place",
+      "label": "成山",
+      "aliases": [],
+      "path": "ch/成山.md"
+    },
+    "蚩尤": {
+      "type": "person",
+      "label": "蚩尤",
+      "aliases": [
+        "兵主"
+      ],
+      "path": "ch/蚩尤.md"
+    },
+    "赤水": {
+      "type": "place",
+      "label": "赤水",
+      "aliases": [],
+      "path": "ch/赤水.md"
+    },
+    "丹穴之山": {
+      "type": "place",
+      "label": "丹穴之山",
+      "aliases": [
+        "丹穴山",
+        "丹穴"
+      ],
+      "path": "da/丹穴之山.md"
+    },
+    "大禹治水": {
+      "type": "event",
+      "label": "大禹治水",
+      "aliases": [
+        "禹治洪水"
+      ],
+      "path": "da/大禹治水.md"
+    },
+    "大荒东经": {
+      "type": "chapter",
+      "label": "大荒东经",
+      "aliases": [],
+      "path": "da/大荒东经.md"
+    },
+    "大荒北经": {
+      "type": "chapter",
+      "label": "大荒北经",
+      "aliases": [],
+      "path": "da/大荒北经.md"
+    },
+    "大荒南经": {
+      "type": "chapter",
+      "label": "大荒南经",
+      "aliases": [],
+      "path": "da/大荒南经.md"
+    },
+    "大荒西经": {
+      "type": "chapter",
+      "label": "大荒西经",
+      "aliases": [],
+      "path": "da/大荒西经.md"
+    },
+    "当康": {
+      "type": "creature",
+      "label": "当康",
+      "aliases": [],
+      "path": "da/当康.md"
+    },
+    "帝之下都": {
+      "type": "concept",
+      "label": "帝之下都",
+      "aliases": [],
+      "path": "di/帝之下都.md"
+    },
+    "帝俊": {
+      "type": "person",
+      "label": "帝俊",
+      "aliases": [
+        "俊"
+      ],
+      "path": "di/帝俊.md"
+    },
+    "帝江": {
+      "type": "creature",
+      "label": "帝江",
+      "aliases": [],
+      "path": "di/帝江.md"
+    },
+    "东山经": {
+      "type": "chapter",
+      "label": "东山经",
+      "aliases": [],
+      "path": "do/东山经.md"
+    },
+    "东海": {
+      "type": "place",
+      "label": "东海",
+      "aliases": [],
+      "path": "do/东海.md"
+    },
+    "洞庭": {
+      "type": "place",
+      "label": "洞庭",
+      "aliases": [
+        "洞庭之山"
+      ],
+      "path": "do/洞庭.md"
+    },
+    "耳鼠": {
+      "type": "creature",
+      "label": "耳鼠",
+      "aliases": [],
+      "path": "er/耳鼠.md"
+    },
+    "凤凰": {
+      "type": "creature",
+      "label": "凤凰",
+      "aliases": [
+        "鸾鸟",
+        "朱雀"
+      ],
+      "path": "fe/凤凰.md"
+    },
+    "肥遗": {
+      "type": "creature",
+      "label": "肥遗",
+      "aliases": [],
+      "path": "fe/肥遗.md"
+    },
+    "蜚": {
+      "type": "creature",
+      "label": "蜚",
+      "aliases": [],
+      "path": "fe/蜚.md"
+    },
+    "飞鱼": {
+      "type": "creature",
+      "label": "飞鱼",
+      "aliases": [],
+      "path": "fe/飞鱼.md"
+    },
+    "伏羲": {
+      "type": "person",
+      "label": "伏羲",
+      "aliases": [
+        "庖牺",
+        "太昊"
+      ],
+      "path": "fu/伏羲.md"
+    },
+    "夫诸": {
+      "type": "creature",
+      "label": "夫诸",
+      "aliases": [],
+      "path": "fu/夫诸.md"
+    },
+    "扶桑": {
+      "type": "place",
+      "label": "扶桑",
+      "aliases": [],
+      "path": "fu/扶桑.md"
+    },
+    "共工触山": {
+      "type": "event",
+      "label": "共工触山",
+      "aliases": [
+        "共工怒触不周山"
+      ],
+      "path": "go/共工触山.md"
+    },
+    "灌灌": {
+      "type": "creature",
+      "label": "灌灌",
+      "aliases": [],
+      "path": "gu/灌灌.md"
+    },
+    "灌题之山": {
+      "type": "place",
+      "label": "灌题之山",
+      "aliases": [
+        "灌题山",
+        "灌题"
+      ],
+      "path": "gu/灌题之山.md"
+    },
+    "蛊雕": {
+      "type": "creature",
+      "label": "蛊雕",
+      "aliases": [],
+      "path": "gu/蛊雕.md"
+    },
+    "鲧": {
+      "type": "person",
+      "label": "鲧",
+      "aliases": [
+        "白马"
+      ],
+      "path": "gu/鲧.md"
+    },
+    "鲧窃息壤": {
+      "type": "event",
+      "label": "鲧窃息壤",
+      "aliases": [],
+      "path": "gu/鲧窃息壤.md"
+    },
+    "鼓": {
+      "type": "creature",
+      "label": "鼓",
+      "aliases": [],
+      "path": "gu/鼓.md"
+    },
+    "旱魃": {
+      "type": "person",
+      "label": "旱魃",
+      "aliases": [
+        "女魃",
+        "魃"
+      ],
+      "path": "ha/旱魃.md"
+    },
+    "海内东经": {
+      "type": "chapter",
+      "label": "海内东经",
+      "aliases": [],
+      "path": "ha/海内东经.md"
+    },
+    "海内北经": {
+      "type": "chapter",
+      "label": "海内北经",
+      "aliases": [],
+      "path": "ha/海内北经.md"
+    },
+    "海内南经": {
+      "type": "chapter",
+      "label": "海内南经",
+      "aliases": [],
+      "path": "ha/海内南经.md"
+    },
+    "海内经": {
+      "type": "chapter",
+      "label": "海内经",
+      "aliases": [],
+      "path": "ha/海内经.md"
+    },
+    "海内西经": {
+      "type": "chapter",
+      "label": "海内西经",
+      "aliases": [],
+      "path": "ha/海内西经.md"
+    },
+    "海外东经": {
+      "type": "chapter",
+      "label": "海外东经",
+      "aliases": [],
+      "path": "ha/海外东经.md"
+    },
+    "海外北经": {
+      "type": "chapter",
+      "label": "海外北经",
+      "aliases": [],
+      "path": "ha/海外北经.md"
+    },
+    "海外南经": {
+      "type": "chapter",
+      "label": "海外南经",
+      "aliases": [],
+      "path": "ha/海外南经.md"
+    },
+    "海外西经": {
+      "type": "chapter",
+      "label": "海外西经",
+      "aliases": [],
+      "path": "ha/海外西经.md"
+    },
+    "何罗鱼": {
+      "type": "creature",
+      "label": "何罗鱼",
+      "aliases": [
+        "何罗之鱼"
+      ],
+      "path": "he/何罗鱼.md"
+    },
+    "黑水": {
+      "type": "place",
+      "label": "黑水",
+      "aliases": [],
+      "path": "he/黑水.md"
+    },
+    "后土": {
+      "type": "person",
+      "label": "后土",
+      "aliases": [],
+      "path": "ho/后土.md"
+    },
+    "后羿射日": {
+      "type": "event",
+      "label": "后羿射日",
+      "aliases": [
+        "羿射十日"
+      ],
+      "path": "ho/后羿射日.md"
+    },
+    "会稽山": {
+      "type": "place",
+      "label": "会稽山",
+      "aliases": [
+        "会稽"
+      ],
+      "path": "hu/会稽山.md"
+    },
+    "槐江之山": {
+      "type": "place",
+      "label": "槐江之山",
+      "aliases": [
+        "槐江山",
+        "槐江"
+      ],
+      "path": "hu/槐江之山.md"
+    },
+    "猾㺔": {
+      "type": "creature",
+      "label": "猾㺔",
+      "aliases": [
+        "猾囗",
+        "猾褱"
+      ],
+      "path": "hu/猾㺔.md"
+    },
+    "讙": {
+      "type": "creature",
+      "label": "讙",
+      "aliases": [],
+      "path": "hu/讙.md"
+    },
+    "黄帝": {
+      "type": "person",
+      "label": "黄帝",
+      "aliases": [],
+      "path": "hu/黄帝.md"
+    },
+    "黄帝战蚩尤": {
+      "type": "event",
+      "label": "黄帝战蚩尤",
+      "aliases": [
+        "涿鹿之战"
+      ],
+      "path": "hu/黄帝战蚩尤.md"
+    },
+    "九尾狐": {
+      "type": "creature",
+      "label": "九尾狐",
+      "aliases": [
+        "九尾",
+        "青丘之狐"
+      ],
+      "path": "ji/九尾狐.md"
+    },
+    "建木": {
+      "type": "place",
+      "label": "建木",
+      "aliases": [],
+      "path": "ji/建木.md"
+    },
+    "狡": {
+      "type": "creature",
+      "label": "狡",
+      "aliases": [],
+      "path": "ji/狡.md"
+    },
+    "精卫": {
+      "type": "creature",
+      "label": "精卫",
+      "aliases": [],
+      "path": "ji/精卫.md"
+    },
+    "精卫填海": {
+      "type": "event",
+      "label": "精卫填海",
+      "aliases": [],
+      "path": "ji/精卫填海.md"
+    },
+    "举父": {
+      "type": "creature",
+      "label": "举父",
+      "aliases": [],
+      "path": "ju/举父.md"
+    },
+    "句芒": {
+      "type": "person",
+      "label": "句芒",
+      "aliases": [
+        "勾芒"
+      ],
+      "path": "ju/句芒.md"
+    },
+    "开明兽": {
+      "type": "creature",
+      "label": "开明兽",
+      "aliases": [],
+      "path": "ka/开明兽.md"
+    },
+    "夸父": {
+      "type": "person",
+      "label": "夸父",
+      "aliases": [],
+      "path": "ku/夸父.md"
+    },
+    "夸父逐日": {
+      "type": "event",
+      "label": "夸父逐日",
+      "aliases": [
+        "夸父追日"
+      ],
+      "path": "ku/夸父逐日.md"
+    },
+    "昆仑之丘": {
+      "type": "place",
+      "label": "昆仑之丘",
+      "aliases": [
+        "昆仑",
+        "昆仑山",
+        "昆仑丘"
+      ],
+      "path": "ku/昆仑之丘.md"
+    },
+    "嫘祖": {
+      "type": "person",
+      "label": "嫘祖",
+      "aliases": [
+        "雷祖",
+        "累祖"
+      ],
+      "path": "le/嫘祖.md"
+    },
+    "梁渠": {
+      "type": "creature",
+      "label": "梁渠",
+      "aliases": [],
+      "path": "li/梁渠.md"
+    },
+    "流沙": {
+      "type": "place",
+      "label": "流沙",
+      "aliases": [],
+      "path": "li/流沙.md"
+    },
+    "狸力": {
+      "type": "creature",
+      "label": "狸力",
+      "aliases": [],
+      "path": "li/狸力.md"
+    },
+    "龙门": {
+      "type": "place",
+      "label": "龙门",
+      "aliases": [
+        "龙门山"
+      ],
+      "path": "lo/龙门.md"
+    },
+    "蠃鱼": {
+      "type": "creature",
+      "label": "蠃鱼",
+      "aliases": [],
+      "path": "lu/蠃鱼.md"
+    },
+    "陆吾": {
+      "type": "creature",
+      "label": "陆吾",
+      "aliases": [],
+      "path": "lu/陆吾.md"
+    },
+    "鯥": {
+      "type": "creature",
+      "label": "鯥",
+      "aliases": [
+        "鲑"
+      ],
+      "path": "lu/鯥.md"
+    },
+    "鸾鸟": {
+      "type": "creature",
+      "label": "鸾鸟",
+      "aliases": [
+        "鸾"
+      ],
+      "path": "lu/鸾鸟.md"
+    },
+    "鹿蜀": {
+      "type": "creature",
+      "label": "鹿蜀",
+      "aliases": [],
+      "path": "lu/鹿蜀.md"
+    },
+    "蛮蛮": {
+      "type": "creature",
+      "label": "蛮蛮",
+      "aliases": [],
+      "path": "ma/蛮蛮.md"
+    },
+    "迷谷": {
+      "type": "creature",
+      "label": "迷谷",
+      "aliases": [],
+      "path": "mi/迷谷.md"
+    },
+    "鸣蛇": {
+      "type": "creature",
+      "label": "鸣蛇",
+      "aliases": [],
+      "path": "mi/鸣蛇.md"
+    },
+    "目录": {
+      "type": "overview",
+      "label": "目录",
+      "aliases": [
+        "TOC",
+        "总目录"
+      ],
+      "path": "mu/目录.md"
+    },
+    "南山经": {
+      "type": "chapter",
+      "label": "南山经",
+      "aliases": [],
+      "path": "na/南山经.md"
+    },
+    "南海": {
+      "type": "place",
+      "label": "南海",
+      "aliases": [],
+      "path": "na/南海.md"
+    },
+    "女丑": {
+      "type": "person",
+      "label": "女丑",
+      "aliases": [
+        "女丑之尸"
+      ],
+      "path": "nv/女丑.md"
+    },
+    "女娲": {
+      "type": "person",
+      "label": "女娲",
+      "aliases": [
+        "女娲娘娘"
+      ],
+      "path": "nv/女娲.md"
+    },
+    "女娲补天": {
+      "type": "event",
+      "label": "女娲补天",
+      "aliases": [],
+      "path": "nv/女娲补天.md"
+    },
+    "女床之山": {
+      "type": "place",
+      "label": "女床之山",
+      "aliases": [],
+      "path": "nv/女床之山.md"
+    },
+    "狍鸮": {
+      "type": "creature",
+      "label": "狍鸮",
+      "aliases": [
+        "饕餮"
+      ],
+      "path": "pa/狍鸮.md"
+    },
+    "穷奇": {
+      "type": "creature",
+      "label": "穷奇",
+      "aliases": [],
+      "path": "qi/穷奇.md"
+    },
+    "钦原": {
+      "type": "creature",
+      "label": "钦原",
+      "aliases": [],
+      "path": "qi/钦原.md"
+    },
+    "青丘": {
+      "type": "place",
+      "label": "青丘",
+      "aliases": [
+        "青丘之山",
+        "青丘之国"
+      ],
+      "path": "qi/青丘.md"
+    },
+    "瞿如": {
+      "type": "creature",
+      "label": "瞿如",
+      "aliases": [],
+      "path": "qu/瞿如.md"
+    },
+    "弱水": {
+      "type": "place",
+      "label": "弱水",
+      "aliases": [],
+      "path": "ru/弱水.md"
+    },
+    "蓐收": {
+      "type": "person",
+      "label": "蓐收",
+      "aliases": [],
+      "path": "ru/蓐收.md"
+    },
+    "十日": {
+      "type": "concept",
+      "label": "十日",
+      "aliases": [
+        "十个太阳"
+      ],
+      "path": "sh/十日.md"
+    },
+    "孰湖": {
+      "type": "creature",
+      "label": "孰湖",
+      "aliases": [],
+      "path": "sh/孰湖.md"
+    },
+    "竖亥": {
+      "type": "person",
+      "label": "竖亥",
+      "aliases": [
+        "坚亥",
+        "大章"
+      ],
+      "path": "sh/竖亥.md"
+    },
+    "胜遇": {
+      "type": "creature",
+      "label": "胜遇",
+      "aliases": [],
+      "path": "sh/胜遇.md"
+    },
+    "舜": {
+      "type": "person",
+      "label": "舜",
+      "aliases": [
+        "帝舜",
+        "虞舜",
+        "重华"
+      ],
+      "path": "sh/舜.md"
+    },
+    "四方神": {
+      "type": "concept",
+      "label": "四方神",
+      "aliases": [
+        "四方之神"
+      ],
+      "path": "si/四方神.md"
+    },
+    "太华之山": {
+      "type": "place",
+      "label": "太华之山",
+      "aliases": [
+        "华山"
+      ],
+      "path": "ta/太华之山.md"
+    },
+    "天山": {
+      "type": "place",
+      "label": "天山",
+      "aliases": [],
+      "path": "ti/天山.md"
+    },
+    "天狗": {
+      "type": "creature",
+      "label": "天狗",
+      "aliases": [],
+      "path": "ti/天狗.md"
+    },
+    "文鳐鱼": {
+      "type": "creature",
+      "label": "文鳐鱼",
+      "aliases": [
+        "文鳐"
+      ],
+      "path": "we/文鳐鱼.md"
+    },
+    "五色石": {
+      "type": "concept",
+      "label": "五色石",
+      "aliases": [],
+      "path": "wu/五色石.md"
+    },
+    "刑天": {
+      "type": "person",
+      "label": "刑天",
+      "aliases": [
+        "形天"
+      ],
+      "path": "xi/刑天.md"
+    },
+    "刑天舞干戚": {
+      "type": "event",
+      "label": "刑天舞干戚",
+      "aliases": [
+        "刑天断首"
+      ],
+      "path": "xi/刑天舞干戚.md"
+    },
+    "夏耕": {
+      "type": "person",
+      "label": "夏耕",
+      "aliases": [
+        "夏耕之尸"
+      ],
+      "path": "xi/夏耕.md"
+    },
+    "息壤": {
+      "type": "concept",
+      "label": "息壤",
+      "aliases": [],
+      "path": "xi/息壤.md"
+    },
+    "猲狙": {
+      "type": "creature",
+      "label": "猲狙",
+      "aliases": [
+        "曷狙"
+      ],
+      "path": "xi/猲狙.md"
+    },
+    "相柳": {
+      "type": "creature",
+      "label": "相柳",
+      "aliases": [
+        "相柳氏"
+      ],
+      "path": "xi/相柳.md"
+    },
+    "羲和": {
+      "type": "person",
+      "label": "羲和",
+      "aliases": [],
+      "path": "xi/羲和.md"
+    },
+    "羲和御日": {
+      "type": "event",
+      "label": "羲和御日",
+      "aliases": [
+        "羲和浴日"
+      ],
+      "path": "xi/羲和御日.md"
+    },
+    "西山经": {
+      "type": "chapter",
+      "label": "西山经",
+      "aliases": [],
+      "path": "xi/西山经.md"
+    },
+    "西海": {
+      "type": "place",
+      "label": "西海",
+      "aliases": [],
+      "path": "xi/西海.md"
+    },
+    "西王母": {
+      "type": "person",
+      "label": "西王母",
+      "aliases": [
+        "王母",
+        "金母"
+      ],
+      "path": "xi/西王母.md"
+    },
+    "鲜山": {
+      "type": "place",
+      "label": "鲜山",
+      "aliases": [
+        "鲜山（中次二经）"
+      ],
+      "path": "xi/鲜山.md"
+    },
+    "旋龟": {
+      "type": "creature",
+      "label": "旋龟",
+      "aliases": [],
+      "path": "xu/旋龟.md"
+    },
+    "玄冥": {
+      "type": "person",
+      "label": "玄冥",
+      "aliases": [
+        "禺京"
+      ],
+      "path": "xu/玄冥.md"
+    },
+    "尧": {
+      "type": "person",
+      "label": "尧",
+      "aliases": [
+        "帝尧",
+        "唐尧",
+        "放勋"
+      ],
+      "path": "ya/尧.md"
+    },
+    "崦嵫山": {
+      "type": "place",
+      "label": "崦嵫山",
+      "aliases": [
+        "崦嵫之山"
+      ],
+      "path": "ya/崦嵫山.md"
+    },
+    "炎帝": {
+      "type": "person",
+      "label": "炎帝",
+      "aliases": [
+        "神农氏"
+      ],
+      "path": "ya/炎帝.md"
+    },
+    "猰貐": {
+      "type": "creature",
+      "label": "猰貐",
+      "aliases": [
+        "窫窳后身"
+      ],
+      "path": "ya/猰貐.md"
+    },
+    "窫窳": {
+      "type": "creature",
+      "label": "窫窳",
+      "aliases": [
+        "窫窳",
+        "贰负臣所杀之兽"
+      ],
+      "path": "ya/窫窳.md"
+    },
+    "应龙": {
+      "type": "creature",
+      "label": "应龙",
+      "aliases": [
+        "有翼之龙"
+      ],
+      "path": "yi/应龙.md"
+    },
+    "羿": {
+      "type": "person",
+      "label": "羿",
+      "aliases": [
+        "后羿",
+        "仁羿"
+      ],
+      "path": "yi/羿.md"
+    },
+    "英招": {
+      "type": "creature",
+      "label": "英招",
+      "aliases": [],
+      "path": "yi/英招.md"
+    },
+    "玉山": {
+      "type": "place",
+      "label": "玉山",
+      "aliases": [
+        "西王母之山"
+      ],
+      "path": "yu/玉山.md"
+    },
+    "玉膏": {
+      "type": "concept",
+      "label": "玉膏",
+      "aliases": [],
+      "path": "yu/玉膏.md"
+    },
+    "禹": {
+      "type": "person",
+      "label": "禹",
+      "aliases": [
+        "大禹"
+      ],
+      "path": "yu/禹.md"
+    },
+    "禹杀相柳": {
+      "type": "event",
+      "label": "禹杀相柳",
+      "aliases": [],
+      "path": "yu/禹杀相柳.md"
+    },
+    "禺强": {
+      "type": "person",
+      "label": "禺强",
+      "aliases": [
+        "禺京"
+      ],
+      "path": "yu/禺强.md"
+    },
+    "羽山": {
+      "type": "place",
+      "label": "羽山",
+      "aliases": [],
+      "path": "yu/羽山.md"
+    },
+    "中山经": {
+      "type": "chapter",
+      "label": "中山经",
+      "aliases": [],
+      "path": "zh/中山经.md"
+    },
+    "彘": {
+      "type": "creature",
+      "label": "彘",
+      "aliases": [],
+      "path": "zh/彘.md"
+    },
+    "招摇之山": {
+      "type": "place",
+      "label": "招摇之山",
+      "aliases": [
+        "招摇山",
+        "招摇"
+      ],
+      "path": "zh/招摇之山.md"
+    },
+    "朱厌": {
+      "type": "creature",
+      "label": "朱厌",
+      "aliases": [],
+      "path": "zh/朱厌.md"
+    },
+    "烛龙": {
+      "type": "creature",
+      "label": "烛龙",
+      "aliases": [],
+      "path": "zh/烛龙.md"
+    },
+    "祝余": {
+      "type": "creature",
+      "label": "祝余",
+      "aliases": [],
+      "path": "zh/祝余.md"
+    },
+    "祝融": {
+      "type": "person",
+      "label": "祝融",
+      "aliases": [
+        "南祝融"
+      ],
+      "path": "zh/祝融.md"
+    },
+    "章莪之山": {
+      "type": "place",
+      "label": "章莪之山",
+      "aliases": [],
+      "path": "zh/章莪之山.md"
+    },
+    "诸怀": {
+      "type": "creature",
+      "label": "诸怀",
+      "aliases": [],
+      "path": "zh/诸怀.md"
+    },
+    "诸犍": {
+      "type": "creature",
+      "label": "诸犍",
+      "aliases": [],
+      "path": "zh/诸犍.md"
+    },
+    "钟山": {
+      "type": "place",
+      "label": "钟山",
+      "aliases": [
+        "钟山之下"
+      ],
+      "path": "zh/钟山.md"
+    },
+    "长右": {
+      "type": "creature",
+      "label": "长右",
+      "aliases": [],
+      "path": "zh/长右.md"
+    },
+    "长留之山": {
+      "type": "place",
+      "label": "长留之山",
+      "aliases": [],
+      "path": "zh/长留之山.md"
+    },
+    "长蛇": {
+      "type": "creature",
+      "label": "长蛇",
+      "aliases": [],
+      "path": "zh/长蛇.md"
+    },
+    "颛顼": {
+      "type": "person",
+      "label": "颛顼",
+      "aliases": [
+        "帝颛顼"
+      ],
+      "path": "zh/颛顼.md"
+    },
+    "驺吾": {
+      "type": "creature",
+      "label": "驺吾",
+      "aliases": [],
+      "path": "zo/驺吾.md"
+    }
+  },
+  "alias_index": {
+    "About": "About",
+    "关于本 Wiki": "About",
+    "关于": "About",
+    "獓狠": "獓狠",
+    "巴蛇": "巴蛇",
+    "巴蛇食象": "巴蛇",
+    "白泽": "白泽",
+    "北山经": "北山经",
+    "北海": "北海",
+    "比翼鸟": "比翼鸟",
+    "毕方": "毕方",
+    "毕文": "毕方",
+    "不周山": "不周山",
+    "不周之山": "不周山",
+    "不周负子": "不周山",
+    "不死药": "不死药",
+    "不死之药": "不死药",
+    "崇吾之山": "崇吾之山",
+    "常羲": "常羲",
+    "常仪": "常羲",
+    "常羲浴月": "常羲浴月",
+    "成山": "成山",
+    "蚩尤": "蚩尤",
+    "兵主": "蚩尤",
+    "赤水": "赤水",
+    "丹穴之山": "丹穴之山",
+    "丹穴山": "丹穴之山",
+    "丹穴": "丹穴之山",
+    "大禹治水": "大禹治水",
+    "禹治洪水": "大禹治水",
+    "大荒东经": "大荒东经",
+    "大荒北经": "大荒北经",
+    "大荒南经": "大荒南经",
+    "大荒西经": "大荒西经",
+    "当康": "当康",
+    "帝之下都": "帝之下都",
+    "帝俊": "帝俊",
+    "俊": "帝俊",
+    "帝江": "帝江",
+    "东山经": "东山经",
+    "东海": "东海",
+    "洞庭": "洞庭",
+    "洞庭之山": "洞庭",
+    "耳鼠": "耳鼠",
+    "凤凰": "凤凰",
+    "鸾鸟": "凤凰",
+    "朱雀": "凤凰",
+    "肥遗": "肥遗",
+    "蜚": "蜚",
+    "飞鱼": "飞鱼",
+    "伏羲": "伏羲",
+    "庖牺": "伏羲",
+    "太昊": "伏羲",
+    "夫诸": "夫诸",
+    "扶桑": "扶桑",
+    "共工触山": "共工触山",
+    "共工怒触不周山": "共工触山",
+    "灌灌": "灌灌",
+    "灌题之山": "灌题之山",
+    "灌题山": "灌题之山",
+    "灌题": "灌题之山",
+    "蛊雕": "蛊雕",
+    "鲧": "鲧",
+    "白马": "鲧",
+    "鲧窃息壤": "鲧窃息壤",
+    "鼓": "鼓",
+    "旱魃": "旱魃",
+    "女魃": "旱魃",
+    "魃": "旱魃",
+    "海内东经": "海内东经",
+    "海内北经": "海内北经",
+    "海内南经": "海内南经",
+    "海内经": "海内经",
+    "海内西经": "海内西经",
+    "海外东经": "海外东经",
+    "海外北经": "海外北经",
+    "海外南经": "海外南经",
+    "海外西经": "海外西经",
+    "何罗鱼": "何罗鱼",
+    "何罗之鱼": "何罗鱼",
+    "黑水": "黑水",
+    "后土": "后土",
+    "后羿射日": "后羿射日",
+    "羿射十日": "后羿射日",
+    "会稽山": "会稽山",
+    "会稽": "会稽山",
+    "槐江之山": "槐江之山",
+    "槐江山": "槐江之山",
+    "槐江": "槐江之山",
+    "猾㺔": "猾㺔",
+    "猾囗": "猾㺔",
+    "猾褱": "猾㺔",
+    "讙": "讙",
+    "黄帝": "黄帝",
+    "黄帝战蚩尤": "黄帝战蚩尤",
+    "涿鹿之战": "黄帝战蚩尤",
+    "九尾狐": "九尾狐",
+    "九尾": "九尾狐",
+    "青丘之狐": "九尾狐",
+    "建木": "建木",
+    "狡": "狡",
+    "精卫": "精卫",
+    "精卫填海": "精卫填海",
+    "举父": "举父",
+    "句芒": "句芒",
+    "勾芒": "句芒",
+    "开明兽": "开明兽",
+    "夸父": "夸父",
+    "夸父逐日": "夸父逐日",
+    "夸父追日": "夸父逐日",
+    "昆仑之丘": "昆仑之丘",
+    "昆仑": "昆仑之丘",
+    "昆仑山": "昆仑之丘",
+    "昆仑丘": "昆仑之丘",
+    "嫘祖": "嫘祖",
+    "雷祖": "嫘祖",
+    "累祖": "嫘祖",
+    "梁渠": "梁渠",
+    "流沙": "流沙",
+    "狸力": "狸力",
+    "龙门": "龙门",
+    "龙门山": "龙门",
+    "蠃鱼": "蠃鱼",
+    "陆吾": "陆吾",
+    "鯥": "鯥",
+    "鲑": "鯥",
+    "鸾": "鸾鸟",
+    "鹿蜀": "鹿蜀",
+    "蛮蛮": "蛮蛮",
+    "迷谷": "迷谷",
+    "鸣蛇": "鸣蛇",
+    "目录": "目录",
+    "TOC": "目录",
+    "总目录": "目录",
+    "南山经": "南山经",
+    "南海": "南海",
+    "女丑": "女丑",
+    "女丑之尸": "女丑",
+    "女娲": "女娲",
+    "女娲娘娘": "女娲",
+    "女娲补天": "女娲补天",
+    "女床之山": "女床之山",
+    "狍鸮": "狍鸮",
+    "饕餮": "狍鸮",
+    "穷奇": "穷奇",
+    "钦原": "钦原",
+    "青丘": "青丘",
+    "青丘之山": "青丘",
+    "青丘之国": "青丘",
+    "瞿如": "瞿如",
+    "弱水": "弱水",
+    "蓐收": "蓐收",
+    "十日": "十日",
+    "十个太阳": "十日",
+    "孰湖": "孰湖",
+    "竖亥": "竖亥",
+    "坚亥": "竖亥",
+    "大章": "竖亥",
+    "胜遇": "胜遇",
+    "舜": "舜",
+    "帝舜": "舜",
+    "虞舜": "舜",
+    "重华": "舜",
+    "四方神": "四方神",
+    "四方之神": "四方神",
+    "太华之山": "太华之山",
+    "华山": "太华之山",
+    "天山": "天山",
+    "天狗": "天狗",
+    "文鳐鱼": "文鳐鱼",
+    "文鳐": "文鳐鱼",
+    "五色石": "五色石",
+    "刑天": "刑天",
+    "形天": "刑天",
+    "刑天舞干戚": "刑天舞干戚",
+    "刑天断首": "刑天舞干戚",
+    "夏耕": "夏耕",
+    "夏耕之尸": "夏耕",
+    "息壤": "息壤",
+    "猲狙": "猲狙",
+    "曷狙": "猲狙",
+    "相柳": "相柳",
+    "相柳氏": "相柳",
+    "羲和": "羲和",
+    "羲和御日": "羲和御日",
+    "羲和浴日": "羲和御日",
+    "西山经": "西山经",
+    "西海": "西海",
+    "西王母": "西王母",
+    "王母": "西王母",
+    "金母": "西王母",
+    "鲜山": "鲜山",
+    "鲜山（中次二经）": "鲜山",
+    "旋龟": "旋龟",
+    "玄冥": "玄冥",
+    "禺京": "玄冥",
+    "尧": "尧",
+    "帝尧": "尧",
+    "唐尧": "尧",
+    "放勋": "尧",
+    "崦嵫山": "崦嵫山",
+    "崦嵫之山": "崦嵫山",
+    "炎帝": "炎帝",
+    "神农氏": "炎帝",
+    "猰貐": "猰貐",
+    "窫窳后身": "猰貐",
+    "窫窳": "窫窳",
+    "贰负臣所杀之兽": "窫窳",
+    "应龙": "应龙",
+    "有翼之龙": "应龙",
+    "羿": "羿",
+    "后羿": "羿",
+    "仁羿": "羿",
+    "英招": "英招",
+    "玉山": "玉山",
+    "西王母之山": "玉山",
+    "玉膏": "玉膏",
+    "禹": "禹",
+    "大禹": "禹",
+    "禹杀相柳": "禹杀相柳",
+    "禺强": "禺强",
+    "羽山": "羽山",
+    "中山经": "中山经",
+    "彘": "彘",
+    "招摇之山": "招摇之山",
+    "招摇山": "招摇之山",
+    "招摇": "招摇之山",
+    "朱厌": "朱厌",
+    "烛龙": "烛龙",
+    "祝余": "祝余",
+    "祝融": "祝融",
+    "南祝融": "祝融",
+    "章莪之山": "章莪之山",
+    "诸怀": "诸怀",
+    "诸犍": "诸犍",
+    "钟山": "钟山",
+    "钟山之下": "钟山",
+    "长右": "长右",
+    "长留之山": "长留之山",
+    "长蛇": "长蛇",
+    "颛顼": "颛顼",
+    "帝颛顼": "颛顼",
+    "驺吾": "驺吾"
+  },
+  "page_count": 157,
+  "generated": "2026-06-01T09:46:44Z"
+}
