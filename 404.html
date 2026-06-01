@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<script>
+// GitHub Pages SPA 路由修复
+// 将 404 路径转为 hash 路由，重定向回 index.html
+var path = location.pathname;
+var repo = '/shanhaijing';
+if (path.indexOf(repo) === 0) {
+  path = path.slice(repo.length);
+}
+if (path.charAt(0) === '/') path = path.slice(1);
+if (path) {
+  location.replace(repo + '/#' + encodeURIComponent(decodeURIComponent(path)));
+} else {
+  location.replace(repo + '/');
+}
+</script>

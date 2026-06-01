@@ -4,8 +4,8 @@ type: overview
 label: 关于本 Wiki
 aliases: [关于, About]
 description: '基于《山海经》全文构建的知识图谱 Wiki'
+quality: basic
 ---
-
 # 关于本 Wiki
 
 ## 语料来源
