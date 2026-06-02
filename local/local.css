@@ -116,6 +116,7 @@ article th {
   border: 1px solid #bfa872;
 }
 article td { border: 1px solid #bfa872; }
+article tr:nth-child(odd) td { background: #f3ecd9; }
 article tr:nth-child(even) td { background: #e8dcbe; }
 
 article hr { border-top: 1px solid #bfa872; }
